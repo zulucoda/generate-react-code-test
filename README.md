@@ -1,5 +1,5 @@
-# Generate React Code - Test Repo
-==================================
+Generate React Code - Test Repo
+===============================
 
 ## Installation
 
